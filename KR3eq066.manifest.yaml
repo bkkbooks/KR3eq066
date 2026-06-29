@@ -1,0 +1,129 @@
+canonical_identifier: bkk:krp/KR3eq066/v1
+canonical_location: https://kanripo.org/bkk/KR3eq066/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 懶園醫語
+  identifiers:
+    krp: KR3eq066
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq066.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq066_000.yaml, hash: 'sha256:0f79bedc7d3681879d62dfd21fcd7623809059aafa2c6f9196af9b8f45bbfcf6'}
+  - {seq: 1, filename: KR3eq066_001.yaml, hash: 'sha256:0262f0efc2f2aae314b3ce48f50ccf8dcc65520734140c7125a09c925000b309'}
+  - {seq: 2, filename: KR3eq066_002.yaml, hash: 'sha256:ab0d0d308812c3aafee65beb9703fb28be91dd90714181ac22fb9d4e706b650b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eq066_001.markers.yaml, hash: 'sha256:a389773f5493118808a776d66d8240d2920db79246b13d79ef893602aec1a234'}
+  - {seq: 2, role: markers, filename: assets/KR3eq066_002.markers.yaml, hash: 'sha256:988b5576053b35cda6ddc29ea3de396357dfc2eae7055e73af5694562fb7a3ca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq066_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 241
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq066_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 27660
+  label: 懶園醫語卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq066_jc_001-d3d2
+    span:
+    - body
+    - 6
+    - 1856
+  label: 答廣濟醫藥音門學校教務長阮其煜問
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq066_jc_001-d3d3
+    span:
+    - body
+    - 1856
+    - 27660
+  label: 答中醫專門學校學生問
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq066_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 32679
+  label: 懶園醫語卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq066_jc_002-d4d2
+    span:
+    - body
+    - 6
+    - 16908
+  label: 懶園居士傅崇黻語錄
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq066_jc_002-d4d3
+    span:
+    - body
+    - 16908
+    - 17293
+  label: 逐年主氣圖解
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq066_jc_002-d4d4
+    span:
+    - body
+    - 17293
+    - 17884
+  label: 逐年客氣圖解
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq066_jc_002-d4d5
+    span:
+    - body
+    - 17884
+    - 26871
+  label: 丑未年主客相臨天時民病表附說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq066_jc_002-d4d6
+    span:
+    - body
+    - 26871
+    - 32679
+  label: 五天五運圖圖說
+  type: section
+  level: 2
+hash: sha256:ba2147fdbf95b6ef0558bfaeb4e701af87a010e5e1ed2339c4f5e82887f88031
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
