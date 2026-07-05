@@ -17,11 +17,12 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR3eq066_000.yaml, hash: 'sha256:0f79bedc7d3681879d62dfd21fcd7623809059aafa2c6f9196af9b8f45bbfcf6'}
-  - {seq: 1, filename: KR3eq066_001.yaml, hash: 'sha256:0262f0efc2f2aae314b3ce48f50ccf8dcc65520734140c7125a09c925000b309'}
-  - {seq: 2, filename: KR3eq066_002.yaml, hash: 'sha256:ab0d0d308812c3aafee65beb9703fb28be91dd90714181ac22fb9d4e706b650b'}
+  - {seq: 1, filename: KR3eq066_001.yaml, hash: 'sha256:607c35a02d37096a9bec1ff9aae85bb296b368095d8e1f9caa1c546dfe36b204'}
+  - {seq: 2, filename: KR3eq066_002.yaml, hash: 'sha256:36821bf4524c4f8ecdd74bf8cec88f02420d79d768b800b593965e06a685e9f1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eq066_001.markers.yaml, hash: 'sha256:a389773f5493118808a776d66d8240d2920db79246b13d79ef893602aec1a234'}
-  - {seq: 2, role: markers, filename: assets/KR3eq066_002.markers.yaml, hash: 'sha256:988b5576053b35cda6ddc29ea3de396357dfc2eae7055e73af5694562fb7a3ca'}
+  - {seq: 0, role: markers, filename: assets/KR3eq066_000.markers.yaml, hash: 'sha256:a991c035373cc88f0fb5f30c86e328ab60ce885db8b445cbad264e90ff343e87'}
+  - {seq: 1, role: markers, filename: assets/KR3eq066_001.markers.yaml, hash: 'sha256:29c091ffd9f46d722c69c120555c0dbe05b7324264b28795183418c23b5908c2'}
+  - {seq: 2, role: markers, filename: assets/KR3eq066_002.markers.yaml, hash: 'sha256:f65224e738f96a724ead0ebe8d7f97c6ac2e3685444ca23f28c31a1550f4425f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -123,7 +124,4 @@ table_of_contents:
   label: 五天五運圖圖說
   type: section
   level: 2
-hash: sha256:ba2147fdbf95b6ef0558bfaeb4e701af87a010e5e1ed2339c4f5e82887f88031
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4a348fd516e38f50510fe2011d914f17944424d34511fe0ce7609aca61fb164b
