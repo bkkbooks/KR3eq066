@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq066/v1
 canonical_location: https://kanripo.org/bkk/KR3eq066/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 懶園醫語
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq066_000.yaml, hash: 'sha256:0f79bedc7d3681879d62dfd21fcd7623809059aafa2c6f9196af9b8f45bbfcf6'}
-  - {seq: 1, filename: KR3eq066_001.yaml, hash: 'sha256:607c35a02d37096a9bec1ff9aae85bb296b368095d8e1f9caa1c546dfe36b204'}
-  - {seq: 2, filename: KR3eq066_002.yaml, hash: 'sha256:36821bf4524c4f8ecdd74bf8cec88f02420d79d768b800b593965e06a685e9f1'}
+  - {seq: 0, filename: KR3eq066_000.yaml, hash: 'sha256:9ed3e92da2cd85a4c5e2bc05d69400be6ce8120387dc949d4c1d81841cef94d9'}
+  - {seq: 1, filename: KR3eq066_001.yaml, hash: 'sha256:1696b1aa8b64ea4b8050fef74355202d6cd43b30766234fe40837308b8b360a4'}
+  - {seq: 2, filename: KR3eq066_002.yaml, hash: 'sha256:5a305b2489260a5857eff4363c508db128d19846199f903f3ce0d6c80c0d90e9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq066_000.markers.yaml, hash: 'sha256:a991c035373cc88f0fb5f30c86e328ab60ce885db8b445cbad264e90ff343e87'}
-  - {seq: 1, role: markers, filename: assets/KR3eq066_001.markers.yaml, hash: 'sha256:29c091ffd9f46d722c69c120555c0dbe05b7324264b28795183418c23b5908c2'}
-  - {seq: 2, role: markers, filename: assets/KR3eq066_002.markers.yaml, hash: 'sha256:f65224e738f96a724ead0ebe8d7f97c6ac2e3685444ca23f28c31a1550f4425f'}
+  - {seq: 0, role: markers, filename: assets/KR3eq066_000.markers.yaml, hash: 'sha256:4d8bf0807dfc6fca9b26f469cd4e9b0bbcb5259017951737ffc95c3349b1d134'}
+  - {seq: 1, role: markers, filename: assets/KR3eq066_001.markers.yaml, hash: 'sha256:f211d87ac81cad82c9b72ca95744c1ba0bf5d9bd13a68af1c7ea99c82705e815'}
+  - {seq: 2, role: markers, filename: assets/KR3eq066_002.markers.yaml, hash: 'sha256:d3f6d354740895ff7394f05c7276a6123398ec42703c5b6239edc73511aceca2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -124,4 +124,7 @@ table_of_contents:
   label: 五天五運圖圖說
   type: section
   level: 2
-hash: sha256:4a348fd516e38f50510fe2011d914f17944424d34511fe0ce7609aca61fb164b
+hash: sha256:6d53965e1732650a74d8479db116265ca4873e7bc261c51ea3061c25a30e9138
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
