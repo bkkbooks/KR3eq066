@@ -21,7 +21,7 @@ assets:
   - {seq: 2, filename: KR3eq066_002-jc.yaml, hash: 'sha256:36821bf4524c4f8ecdd74bf8cec88f02420d79d768b800b593965e06a685e9f1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq066_000-jc.markers.yaml, hash: 'sha256:57e98af05a51a4cd7685f47dae18718b9958f39a2d3a35cde0c1896abfa79038'}
-  - {seq: 1, role: markers, filename: assets/KR3eq066_001-jc.markers.yaml, hash: 'sha256:6dc379893aa1601f2e7bbe8b6ab4531c1c806839117f5361e2af20bb0ff0a6ef'}
+  - {seq: 1, role: markers, filename: assets/KR3eq066_001-jc.markers.yaml, hash: 'sha256:ac842fc97ba2ee35710bdcb00169c506852c2270705aaa65f3e72ffa3be4b555'}
   - {seq: 2, role: markers, filename: assets/KR3eq066_002-jc.markers.yaml, hash: 'sha256:a7bfc9836fb97de4e41f01aa4e75a85f6929c38394eb4540edb1e8fae1ca2761'}
 table_of_contents:
 - ref:
@@ -124,4 +124,4 @@ table_of_contents:
   label: 五天五運圖圖說
   type: section
   level: 2
-hash: sha256:bdecb6d30fb7a900b10f53b9a3b944f3b13c2afb1713d41ed4298ccea4ae6e11
+hash: sha256:a206de673da998edf2e65f2f459acee9cc5a2613c398eda09b55eb1de4b29a0a
