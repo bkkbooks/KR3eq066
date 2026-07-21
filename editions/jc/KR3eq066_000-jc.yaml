@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3eq066/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序去歲曾將教室中問答付印名曰組織學翼義蓋因所問皆不出組織一科範圍之內也此編所問各科俱有並將友人所問附入故名之曰醫語其中論說雖多臆斷然必擇前賢論說中之有合於經義者乃略採西醫學說中之可資參考者引以為答不敢妄自立說以欺人但古今醫書汗牛充棟諸家論說聚訟紛壇馬元臺哀秦張王李朱諸前賢之誤而張介賓復哀其誤並曰使余之後人又有哀余之誤者是後人復哀後人也吾曰後人復哀後人正醫學之逐漸進步也醫學之逐漸進步正社會之幸也後生可畏焉知來不勝今苟有糾吾謬而繩吾誤者豈獨吾之幸哉中華民國十年四月二十九日懶園居士序
   hash: sha256:b0aa4fa01e30d9ae548171cba7ad62366afdad7a5c81952f90d07cd92b0314fb
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3eq066_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 懶園醫語
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3eq066.xml
-hash: sha256:0f79bedc7d3681879d62dfd21fcd7623809059aafa2c6f9196af9b8f45bbfcf6
+hash: sha256:ec511e3f919e883a97d435f910052965a3fbdc82d224e298acb9d2796881a762

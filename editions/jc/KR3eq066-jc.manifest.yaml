@@ -16,11 +16,11 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eq066_000-jc.yaml, hash: 'sha256:0f79bedc7d3681879d62dfd21fcd7623809059aafa2c6f9196af9b8f45bbfcf6'}
+  - {seq: 0, filename: KR3eq066_000-jc.yaml, hash: 'sha256:ec511e3f919e883a97d435f910052965a3fbdc82d224e298acb9d2796881a762'}
   - {seq: 1, filename: KR3eq066_001-jc.yaml, hash: 'sha256:607c35a02d37096a9bec1ff9aae85bb296b368095d8e1f9caa1c546dfe36b204'}
   - {seq: 2, filename: KR3eq066_002-jc.yaml, hash: 'sha256:36821bf4524c4f8ecdd74bf8cec88f02420d79d768b800b593965e06a685e9f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq066_000-jc.markers.yaml, hash: 'sha256:57e98af05a51a4cd7685f47dae18718b9958f39a2d3a35cde0c1896abfa79038'}
+  - {seq: 0, role: markers, filename: assets/KR3eq066_000-jc.markers.yaml, hash: 'sha256:18f970bf53673a629eed9f0a123f0e5eecc12e316937b452b19b82c3f9d5e534'}
   - {seq: 1, role: markers, filename: assets/KR3eq066_001-jc.markers.yaml, hash: 'sha256:ac842fc97ba2ee35710bdcb00169c506852c2270705aaa65f3e72ffa3be4b555'}
   - {seq: 2, role: markers, filename: assets/KR3eq066_002-jc.markers.yaml, hash: 'sha256:a7bfc9836fb97de4e41f01aa4e75a85f6929c38394eb4540edb1e8fae1ca2761'}
 table_of_contents:
@@ -28,7 +28,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq066_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 241
   label: 序
@@ -124,4 +124,4 @@ table_of_contents:
   label: 五天五運圖圖說
   type: section
   level: 2
-hash: sha256:a206de673da998edf2e65f2f459acee9cc5a2613c398eda09b55eb1de4b29a0a
+hash: sha256:e0edba6f89e1a716f6757ec2f88c9cc25d01f5f856d54ac5baf792b78e83114f
